@@ -2,11 +2,14 @@
 
 An AI-powered fortune telling divination Agent (ChatGPT App/MCP) that integrates traditional **Tarot**, **Zhouyi (I Ching)**, and **Guangong Oracle** into a unified digital experience. The agent performs real-world drawing logic (shuffling and orientation) and uses LLM intelligence to interpret the results. 
 
-Deploy at [DeepNLP Agent Workspalce](https://deepnlp.org/workspace/deploy) and Live URL [https://derekzz.aiagenta2z.com/fortune-compass-agent/mcp](https://derekzz.aiagenta2z.com/fortune-compass-agent/mcp)
+Deploy at AI Agent A2Z Agent [Workspace](https://deepnlp.org/workspace/deploy) [Doc](https://deepnlp.org/doc/agent_mcp_deployment) and Live URL [https://derekzz.aiagenta2z.com/fortune-compass-agent/mcp](https://derekzz.aiagenta2z.com/fortune-compass-agent/mcp)
+
+![Fortune Compass ace-of-wands.jpg](https://raw.githubusercontent.com/AI-Hub-Admin/fortune-compass-agent/refs/heads/main/assets/tarot/ace-of-wands.jpg)
+![Fortune Compass ace-of-swords.jpg](https://raw.githubusercontent.com/AI-Hub-Admin/fortune-compass-agent/refs/heads/main/assets/tarot/ace-of-swords.jpg)
 
 ---
 
-## 🔮 Divination Methods
+## 🔮 Agent ChatGPT App Features
 
 ### 🃏 Tarot
 * **Complete Deck:** Randomly draws from all 78 cards.
@@ -45,7 +48,7 @@ pnpm start
 
 Change port
 ```bash
-PORT=7104 pnpm start
+PORT=9000 pnpm start
 ```
 
 
