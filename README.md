@@ -2,11 +2,14 @@
 
 # 🧭 Fortune Compass Agent
 
-Try Playground URL: https://agent.deepnlp.org/?agent=derekzz/fortune-compass-agent
+Try Playground URL: https://agent.deepnlp.org/?agent=derekzz/fortune-compass-agent 
+
 LiveMCP URL (Use in various Clients):  https://derekzz.aiagenta2z.com/fortune-compass-agent/mcp 
 
+**H5**
+prompt: Should I quit my current job in 2026?
 
-
+<img src="https://raw.githubusercontent.com/AI-Hub-Admin/fortune-compass-agent/refs/heads/main/docs/tarot_snapshot.png" style="height:400px;" alt="AI Agent A2Z Tarot">
 
 
 ### Features
