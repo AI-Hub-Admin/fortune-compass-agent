@@ -2,7 +2,16 @@
 
 # 🧭 Fortune Compass Agent
 
+Try Playground URL: https://agent.deepnlp.org/?agent=derekzz/fortune-compass-agent
+LiveMCP URL (Use in various Clients):  https://derekzz.aiagenta2z.com/fortune-compass-agent/mcp 
+
+
+
+
+
+### Features
 An AI-powered fortune telling divination Agent (ChatGPT App/MCP) that integrates traditional **Tarot**, **Zhouyi (I Ching)**, and **Guangong Oracle** into a unified digital experience. The agent performs real-world drawing logic (shuffling and orientation) and uses LLM intelligence to interpret the results. 
+
 
 Deploy at AI Agent A2Z Agent [Workspace](https://deepnlp.org/workspace/deploy) [Doc](https://deepnlp.org/doc/agent_mcp_deployment) and Live URL [https://derekzz.aiagenta2z.com/fortune-compass-agent/mcp](https://derekzz.aiagenta2z.com/fortune-compass-agent/mcp)
 
